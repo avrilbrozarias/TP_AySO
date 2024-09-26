@@ -1,0 +1,83 @@
+mate -v
+sudo apt install mate-desktop-environment-extras
+sudo
+sudo apt install mate-desktop-environment-extras
+su
+sudo
+su
+cd /verlog
+cd /var/log
+pwd
+ls
+cp/home/debianDocumentos/ boot.log
+cp /home/debianDocumentos/ boot.log
+cp --g
+cp --help
+cp boot.log /home/debian/Documentos
+su
+mkdir prueba
+mkdir - make directory
+cp boot.log /home/debian/Documentos
+ls - list files
+mkdir prueba
+mkdir - make directory
+pwd
+cd Documentos
+cd /var/log
+exit
+cd /var/log
+ls
+boot.log
+boot.log /home/debian/Documentos
+ls
+list
+ls list
+ls list files
+ls - list files+
+cp copy
+cp
+copy
+cp - copy
+mkdir
+mkdir make directory
+chown
+chown owner
+chown owner ns
+pwd
+ds
+ls
+ls >> Documentos
+que?
+sudo
+sudo death
+no
+su
+pwd
+mkdir repogit
+cd recogit
+cd repogit
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p {carpetauno,carpetados
+ls
+mkdir -p ejemplo/{1,2}
+ls
+ls ejemplo
+tree
+su
+tree
+man tree
+cd ..
+pwd
+su
+superdebian2024
+su
+pwd
+cd ..
+ls
+ls -a
+su
+pwd
+cd ..
+mkdir yo
+su
